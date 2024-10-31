@@ -1,0 +1,82 @@
+# Copyright (C) 2021 quick-audio-player
+# This file is distributed under the same license as the quick-audio-player package.
+msgid ""
+msgstr ""
+"Project-Id-Version: quick-audio-player\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/class-admin.php:19
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/class-admin.php:21
+msgid "Date"
+msgstr ""
+
+#: includes/admin/class-duplicator.php:31
+msgid "Duplicate"
+msgstr ""
+
+#: includes/base.php:4, plugin.php:16
+msgid "You can't access this page"
+msgstr ""
+
+#: includes/base.php:77
+msgid "Unsupported PHP version Min required PHP Version: \"%s\""
+msgstr ""
+
+#: includes/base.php:140
+msgid "Settings"
+msgstr ""
+
+#: includes/class-cpt.php:19, includes/class-cpt.php:20
+msgid "Audio Players"
+msgstr ""
+
+#: includes/class-cpt.php:20
+msgid "Audio Player"
+msgstr ""
+
+#: includes/class-cpt.php:31
+msgid "All %s"
+msgstr ""
+
+#: includes/class-cpt.php:33, includes/class-cpt.php:34
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-cpt.php:35
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-cpt.php:36
+msgid "New %s"
+msgstr ""
+
+#: includes/class-cpt.php:37
+msgid "View %s"
+msgstr ""
+
+#: includes/class-cpt.php:38
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-cpt.php:39
+msgid "No %s found"
+msgstr ""
+
+#: includes/class-cpt.php:40
+msgid "No %s found in Trash"
+msgstr ""
+
+#: includes/class-cpt.php:41
+msgid "Parent %s:"
+msgstr ""
